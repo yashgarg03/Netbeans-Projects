@@ -19,12 +19,13 @@ public class JavaApplication2 {
             if(i==0){
                 break;
             }
-            System.out.println("Enter Any Two Integers");
+            System.out.println("Enter Any Two Int0egers");
             a=sc.nextInt();
             b=sc.nextInt();
             c=a+b;
             System.out.println("Sum is : "+c);
         }
+        System.out.println("Thank You!");
     }
     
 }
